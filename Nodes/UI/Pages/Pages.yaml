@@ -12742,7 +12742,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 310.0
+      Value: 150.0
     - Name: Text
       Id: g=cf0d5daad29b167a63832a38ff1e0541
       Type: BaseDataVariableType
