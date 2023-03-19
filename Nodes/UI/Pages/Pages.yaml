@@ -12736,10 +12736,16 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 500.0
+      Value: 340.0
     - Name: TopMargin
       Id: g=e268b7b351404a391c72bf277152616e
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 500.0
+      Value: 310.0
+    - Name: Text
+      Id: g=cf0d5daad29b167a63832a38ff1e0541
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      ModellingRule: Optional
+      Value: {"LocaleId":"en-US","Text":""}
